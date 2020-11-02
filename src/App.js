@@ -18,7 +18,8 @@ const CustomButton = withStyles(() => ({
     borderRadius: '0',
     textTransform: 'none',
     boxShadow: 'none',
-    alignSelf: 'flex-start'
+    alignSelf: 'flex-start',
+    width: '165px'
   },
 }))(Button)
 
