@@ -1,7 +1,7 @@
 # **Fillet Front-end**
 
 ## Stack
-Esse é um projeto de Front-end Web feito utilizando ReactJS, HTML e CSS. Foi utilizado a biblioteca Axios para requisições com a API, Material-UI e Styled Components para estilização.
+Esse é um projeto de Front-end Web no formato Single Page Application feito utilizando ReactJS, HTML e CSS. Foi utilizado a biblioteca Axios para requisições com a API, Material-UI e Styled Components para estilização.
 
 ## Sobre
 O projeto se trata de uma tela de cadastro simples onde o usuário deve informar seu primeiro e último nome, telefone, email e senha. 
