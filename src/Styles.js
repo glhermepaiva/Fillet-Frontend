@@ -27,6 +27,18 @@ export const Main = styled.div`
   padding: 0 3vw;
 `
 
+export const SignUpText = styled.h1`
+  color: rgb(255, 85, 218);
+  font-size: 3vw;
+  align-self: flex-start;
+  margin: 0;
+  user-select: none;
+`
+
+export const InputContainer = styled.div`
+  margin: 1vw -1vw 2vw -1vw;
+`
+
 export const MainLoading = styled.div`
   width: 35vw;
   height: 70vh;
@@ -38,16 +50,4 @@ export const MainLoading = styled.div`
   flex-wrap: wrap;
   padding: 0 3vw;
   font-size: 10vw;
-`
-
-export const SignUpText = styled.h1`
-  color: rgb(255, 85, 218);
-  font-size: 3vw;
-  align-self: flex-start;
-  margin: 0;
-  user-select: none;
-`
-
-export const InputContainer = styled.div`
-  margin: 1vw -1vw 2vw -1vw;
 `
