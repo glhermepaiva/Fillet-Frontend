@@ -9,6 +9,8 @@ O projeto se trata de uma tela de cadastro simples onde o usuário deve informar
 ## Instruções para rodar
 Acessar o site https://filletfullstack.surge.sh
 
+## Link para parte Backend do projeto
+https://github.com/glhermepaiva/Fillet-Backend
+
 ## Contato
-Guilherme Paiva
-https://www.linkedin.com/in/glhrmpaiva
+https://www.linkedin.com/in/glhrmpaiva // glhrmpaiva@gmail.com
